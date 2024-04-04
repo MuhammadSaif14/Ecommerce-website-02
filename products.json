@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "Cname": "Toys & Games",
+    "Pname": "3 Pack Toddlers Sports Ball",
+    "price": "$12.99",
+    "image": "toys&games/images/toy1.png",
+    "location": "/toys&games/toysproduct1.html"
+  },
+  {
+    "id": 2,
+    "Cname": "Toys & Games",
+    "Pname": "Pop It Puzzle Game Toy",
+    "price": "$19.99",
+    "image": "toys&games/images/toy2.png",
+    "location": "/toys&games/toysproduct2.html"
+  },
+  {
+    "id": 3,
+    "Cname": "Toys & Games",
+    "Pname": "Dentist Crocodile toy",
+    "price": "$8.81",
+    "image": "toys&games/images/toy3.png",
+    "location": "/toys&games/toysproduct3.html"
+  },
+  {
+    "id": 4,
+    "Cname": "Toys & Games",
+    "Pname": "Milageto Kids Makeup Kit For Girls",
+    "price": "$11.00",
+    "image": "toys&games/images/toy4.jpeg",
+    "location": "/toys&games/toysproduct4.html"
+  },
+  {
+    "id": 5,
+    "Cname": "Toys & Games",
+    "Pname": "Labebe Child Rocking Horse Toy",
+    "price": "$99.99",
+    "image": "toys&games/images/toy5.png",
+    "location": "/toys&games/toysproduct5.html"
+  },
+  {
+    "id": 6,
+    "Cname": "Toys & Games",
+    "Pname": "Liewood - Thomas Dino Silicone Telephone - Blue",
+    "price": "$9.99",
+    "image": "toys&games/images/toy6.png",
+    "location": "/toys&games/toysproduct6.html"
+  },
+  {
+    "id": 7,
+    "Cname": "Toys & Games",
+    "Pname": "Aurora World Destination Nation Gray Penguin Plush",
+    "price": "$12.99",
+    "image": "toys&games/images/toy7.png",
+    "location": "/toys&games/toysproduct7.html"
+  },
+  {
+    "id": 8,
+    "Cname": "Toys & Games",
+    "Pname": "AppleRound Reindeer Bouncer with Hand Pump",
+    "price": "$15.99",
+    "image": "toys&games/images/toy8.png",
+    "location": "/toys&games/toysproduct8.html"
+  },
+  {
+    "id": 9,
+    "Cname": "Toys & Games",
+    "Pname": "Eilik an Cute Robot Pets for Kids and Adults",
+    "price": "$149",
+    "image": "toys&games/images/toy9.png",
+    "location": "/toys&games/toysproduct9.html"
+  },
+  {
+    "id": 10,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "OGX Hydration + Sea Kelp & Hyalaronic acid",
+    "price": "$50",
+    "image": "beauty&personalcare/images/beauty1.png",
+    "location": "/beauty&personalcare/beautyproduct1.html"
+  },
+  {
+    "id": 11,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "Medicube Age-R Ussera",
+    "price": "$275",
+    "image": "beauty&personalcare/images/beauty2.png",
+    "location": "/beauty&personalcare/beautyproduct2.html"
+  },
+  {
+    "id": 12,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "White Soul Fragrance",
+    "price": "$78",
+    "image": "beauty&personalcare/images/beauty3.PNG",
+    "location": "/beauty&personalcare/beautyproduct3.html"
+  },
+  {
+    "id": 13,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "Pytho Skin Care",
+    "price": "$145",
+    "image": "beauty&personalcare/images/beauty4.PNG",
+    "location": "/beauty&personalcare/beautyproduct4.html"
+  },
+  {
+    "id": 14,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "Carbon Steel Nagelschere Nailcutter",
+    "price": "$145",
+    "image": "beauty&personalcare/images/beauty5.PNG",
+    "location": "/beauty&personalcare/beautyproduct5.html"
+  },
+  {
+    "id": 15,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "White Diamond Parfum",
+    "price": "$132",
+    "image": "beauty&personalcare/images/beauty6.PNG",
+    "location": "/beauty&personalcare/beautyproduct6.html"
+  },
+  {
+    "id": 16,
+    "Cname": "Beauty & Personal Care",
+    "Pname": "Private Oud",
+    "price": "$78",
+    "image": "beauty&personalcare/images/beauty7.PNG",
+    "location": "/beauty&personalcare/beautyproduct7.html"
+  },
+  {
+    "id": 17,
+    "Cname": "Home & Kitchen",
+    "Pname": "Classic Stainless Steel 5 pcs Kitchen Knifes",
+    "price":" $250",
+    "image": "home&kitchen/images/kitchen1.png",
+    "location": "/home&kitchen/homeproduct1.html"
+  },
+  {
+    "id": 18,
+    "Cname": "Home & Kitchen",
+    "Pname":"Kitchen Utensils Set, 26 pcs ",
+    "price":" $120",
+    "image": "home&kitchen/images/kitchen2.png",
+    "location": "/home&kitchen/homeproduct2.html"
+  },
+  {
+    "id": 19,
+    "Cname": "Home & Kitchen",
+    "Pname": "Ironing Board",
+    "price":" $99",
+    "image": "home&kitchen/images/kitchen4.png",
+    "location": "/home&kitchen/homeproduct3.html"
+  },
+  {
+    "id": 20,
+    "Cname": "Home & Kitchen",
+    "Pname": "High-Carbon Stainless Steel Kitchen Knifes",
+    "price":" $178",
+    "image": "home&kitchen/images/kitchen5.png",
+    "location": "/home&kitchen/homeproduct4.html"
+  },
+  {
+    "id": 21,
+    "Cname": "Home & Kitchen",
+    "Pname": "Kitchen Tools Set",
+    "price":" $55",
+    "image": "home&kitchen/images/kitchen6.png",
+    "location": "/home&kitchen/homeproduct5.html"
+  },
+  {
+    "id": 22,
+    "Cname": "Home & Kitchen",
+    "Pname": "Metamersh Tiffin Box",
+    "price":" $99",
+    "image": "home&kitchen/images/kitchen7.png",
+    "location": "/home&kitchen/homeproduct6.html"
+  },
+  {
+    "id": 23,
+    "Cname": "Home & Kitchen",
+    "Pname": "Juvale Coffee Tea Sugar Container Set ",
+    "price":" $150",
+    "image": "home&kitchen/images/kitchen8.png",
+    "location": "/home&kitchen/homeproduct7.html"
+  },
+  {
+    "id": 24,
+    "Cname": "Home & Kitchen",
+    "Pname": "Front Door Floor Mat",
+    "price":" $300",
+    "image": "home&kitchen/images/kitchen9.jpeg",
+    "location": "/home&kitchen/homeproduct8.html"
+  },
+  {
+    "id": 25,
+    "Cname": "Home & Kitchen",
+    "Pname": "1pc Super Absorbent Floor Mat For Bathroom",
+    "price":" $349.99",
+    "image": "home&kitchen/images/kitchen10.jpeg",
+    "location": "/home&kitchen/homeproduct9.html"
+  },
+  {
+    "id": 26,
+    "Cname": "Baby",
+    "Pname": "Johnson's Baby Oil",
+    "price":" $9.88",
+    "image": "baby/images/baby1.png",
+    "location": "/baby/babyproduct1.html"
+  },
+  {
+    "id": 27,
+    "Cname": "Baby",
+    "Pname": "Baby Shapeless Puzzle",
+    "price":" $15.66",
+    "image": "baby/images/baby2.png",
+    "location": "/baby/babyproduct2.html"
+  },
+  {
+    "id": 28,
+    "Cname": "Baby",
+    "Pname": "TinyTots Silicone Baby Bowl",
+    "price":" $12",
+    "image": "baby/images/baby5.png",
+    "location": "/baby/babyproduct3.html"
+  },
+  {
+    "id": 29,
+    "Cname": "Baby",
+    "Pname": "Frigg Daisy Natural Rubber",
+    "price":" $5.06",
+    "image": "baby/images/baby7.png",
+    "location": "/baby/babyproduct4.html"
+  },
+  {
+    "id": 30,
+    "Cname": "Baby",
+    "Pname": "Snowflake Snuggles Baby Winter Cap",
+    "price":" $139.99",
+    "image": "baby/images/baby8.png",
+    "location": "/baby/babyproduct5.html"
+  },
+  {
+    "id": 31,
+    "Cname": "Office Supplies",
+    "Pname": "Pack of 2 Clip on tableCup Holder",
+    "price":" $29.99",
+    "image": "officesupplies/images/office1.png",
+    "location": "/officesupplies/officeproduct1.html"
+  },
+  {
+    "id": 32,
+    "Cname": "Office Supplies",
+    "Pname": "Early Buy Sticky Notes 6 Bright Color ",
+    "price":" $14.99",
+    "image": "officesupplies/images/office2.png",
+    "location": "/officesupplies/officeproduct2.html"
+  },
+  {
+    "id": 33,
+    "Cname": "Office Supplies",
+    "Pname": "Ktaxon Office Desk Organizer",
+    "price":" $15.99",
+    "image": "officesupplies/images/office3.png",
+    "location": "/officesupplies/officeproduct3.html"
+  },
+  {
+    "id": 34,
+    "Cname": "Office Supplies",
+    "Pname": "Zeyar Highlighter Pen Cream Colors ",
+    "price":" $2.30",
+    "image": "officesupplies/images/office4.png",
+    "location": "/officesupplies/officeproduct4.html"
+  },
+  {
+    "id": 35,
+    "Cname": "Electronics",
+    "Pname": "Apple Watch SE GPS Aluminum Case Sport Band",
+    "price":" $250",
+    "image": "electronics/images/electronics1.png",
+    "location": "/electronics/electronicproduct1.html"
+  },
+  {
+    "id": 36,
+    "Cname": "Electronics",
+    "Pname": "Apple Airpods Max ",
+    "price":" $549",
+    "image": "electronics/images/electronics2.png",
+    "location": "/electronics/electronicproduct2.html"
+  },
+  {
+    "id": 37,
+    "Cname": "Electronics",
+    "Pname": "Apple AirTag",
+    "price":" $99",
+    "image": "electronics/images/electronics3.png",
+    "location": "/electronics/electronicproduct3.html"
+  },
+  {
+    "id": 38,
+    "Cname": "Electronics",
+    "Pname": "Amazon Echo Plus (2nd Gen.)",
+    "price":" $350",
+    "image": "electronics/images/electronics4.png",
+    "location": "/electronics/electronicproduct4.html"
+  },
+  {
+    "id": 39,
+    "Cname": "Electronics",
+    "Pname": "AirBuds",
+    "price":" $245",
+    "image": "electronics/images/electronics5.png",
+    "location": "/electronics/electroniproducts5.html"
+  },
+  {
+    "id": 40,
+    "Cname": "Electronics",
+    "Pname": "Apple Beats Studio3",
+    "price":" $275",
+    "image": "electronics/images/electronics6.png",
+    "location": "/electronics/electronicproduct6.html"
+  }
+]
